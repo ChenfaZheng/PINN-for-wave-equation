@@ -6,7 +6,7 @@ See also: [Physics-informed Neural Networks (PINNs) for Wave Propagation and Ful
 
 The different descriptions refers to the different loss functions and the different models.
 
-For futher instructions, plase see the demo ([html](./demo/demo.html) or [jupyter notebook](./demo/demo.ipynb))
+For futher instructions, plase see the demo ([jupyter notebook](./demo/demo.ipynb))
 
 ## Example
 
